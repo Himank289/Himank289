@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python,c,c++,Git&Github**
 
 - 📫 How to reach me **tyagihimank28@gmail.com**
--<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Reload" height="400px" width="400px"padding: 21px 54px>
+-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Reload" height="400px" width="400px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
