@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Python Development**
 
-- 📝 I regularly write articles on [cppsecrets.com](cppsecrets.com)
+- 📝 I regularly write articles on [cppsecrets.com](https://cppsecrets.com/user/index.php?uid=14245)
 
 - 💬 Ask me about **Python,c,c++,Git&Github**
 
