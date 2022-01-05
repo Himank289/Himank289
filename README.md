@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Prediction of Heart Disease Using Machine Learning**
 
-- 🌱 I’m currently learning **Full Stack Python development**
+- 🌱 I’m currently learning **Full Stack Python Development**
 
 - 📝 I regularly write articles on [cppsecrets.com](cppsecrets.com)
 
