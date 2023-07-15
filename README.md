@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himank289" alt="himank289" /></a> </p>
 
-- 🔭 I’m currently working on **Prediction of Heart Disease Using Machine Learning**
-
-- 🌱 I’m currently learning **Full Stack Python Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📝 I regularly write articles on [cppsecrets.com](https://cppsecrets.com/user/index.php?uid=14245)
 
-- 💬 Ask me about **Python,c,c++,Git&Github**
+- 💬 Ask me about **Python,C,C++,Git&Github**
 
 - 📫 How to reach me **tyagihimank28@gmail.com**
 -<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Reload" height="400px" width="400px" img align="right">
